@@ -3,7 +3,7 @@ Version : 1.0 (Bêta)
 
 Dernière mise à jour : 19 février 2026
 
-##1. Objet et Acceptation
+## 1. Objet et Acceptation
 Les présentes CGU définissent les règles d'utilisation de l'application To Learn. En créant un compte (via Google OAuth), vous acceptez sans réserve ces conditions. Si vous agissez au nom d'un mineur, vous reconnaissez en être le tuteur légal.
 
 ## 2. Mentions Légales
