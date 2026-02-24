@@ -1,7 +1,7 @@
 # Conditions Générales d’Utilisation (CGU) – Application "To Learn"
 Version : 1.0 (Bêta)
 
-Dernière mise à jour : 19 février 2026
+Dernière mise à jour : 24 février 2026, version 1
 
 ## 1. Objet et Acceptation
 Les présentes CGU définissent les règles d'utilisation de l'application To Learn. En créant un compte (via Google OAuth), vous acceptez sans réserve ces conditions. Si vous agissez au nom d'un mineur, vous reconnaissez en être le tuteur légal.
