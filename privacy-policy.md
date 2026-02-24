@@ -1,5 +1,5 @@
 # Politique de Confidentialité – Application "To Learn"
-Dernière mise à jour : 19 février 2026
+Dernière mise à jour : 19 février 2026, version 1
 
 La présente Politique de Confidentialité informe les utilisateurs de l'application To Learn (ci-après "l'Application") sur la collecte et le traitement de leurs données à caractère personnel, conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi belge du 30 juillet 2018.
 
