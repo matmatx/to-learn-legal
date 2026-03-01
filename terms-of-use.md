@@ -11,7 +11,7 @@ L'Éditeur responsable et contractant légal est :
 
 M. Vincent Heyvaert, agissant en qualité de représentant légal de Matthias Heyvaert.
 
-Contact : matmatx.matmatx@gmail.com
+Contact : cozzy.development@gmail.com
 
 Droit applicable : Droit belge.
 
@@ -57,4 +57,4 @@ L’Éditeur se réserve le droit de fermer l'Application ou de modifier les pr�
 La responsabilité de l'Éditeur ne pourra être engagée en cas de force majeure (panne généralisée du réseau internet, attaque informatique massive, incendie des centres de données tiers, etc.).
 
 ## 10. Litiges et Juridiction
-En cas de contestation, les parties s'engagent à chercher une solution amiable. À défaut, les tribunaux de l'arrondissement judiciaire de [Ta Ville / ex: Mons ou Bruxelles] seront seuls compétents.
+En cas de contestation, les parties s'engagent à chercher une solution amiable. À défaut, les tribunaux de l'arrondissement judiciaire de Mons seront seuls compétents.
