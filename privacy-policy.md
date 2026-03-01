@@ -8,7 +8,7 @@ L'éditeur de l'Application étant mineur au sens de la loi, le responsable lég
 
 Identité : M. Vincent Heyvaert (agissant en qualité de représentant légal de Matthias Heyvaert).
 
-Contact : matmatx.matmatx@gmail.com
+Contact : cozzy.development@gmail.com
 
 ## 2. Données collectées
 Nous appliquons le principe de minimisation pour ne collecter que le strict nécessaire :
@@ -49,7 +49,7 @@ Conformément à la législation belge sur la majorité numérique, l’Applicat
 
 Nous ne collectons pas sciemment de données auprès d'enfants de moins de 13 ans.
 
-Si un parent constate que son enfant de moins de 13 ans a créé un compte sans son accord, il peut demander la suppression immédiate des données à : matmatx.matmatx@gmail.com.
+Si un parent constate que son enfant de moins de 13 ans a créé un compte sans son accord, il peut demander la suppression immédiate des données à : cozzy.development@gmail.com.
 
 ## 7. Sécurité des données
 La sécurité est notre priorité. Nous utilisons :
@@ -62,6 +62,6 @@ Authentification Sécurisée : Nous ne stockons jamais vos mots de passe Google 
 
 ## 8. Vos Droits (RGPD)
 Vous disposez des droits d'accès, de rectification, d'effacement, de portabilité et de limitation du traitement. Vous pouvez également retirer votre consentement à tout moment.
-Pour exercer ces droits, contactez : matmatx.matmatx@gmail.com.
+Pour exercer ces droits, contactez : cozzy.development@gmail.com.
 
 En cas de réponse insatisfaisante, vous avez le droit d'introduire une réclamation auprès de l'Autorité de Protection des Données (APD) : Rue de la Presse 35, 1000 Bruxelles (www.autoriteprotectiondonnees.be).
