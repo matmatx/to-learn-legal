@@ -10,8 +10,6 @@ Identité : M. Vincent Heyvaert (agissant en qualité de représentant légal de
 
 Contact : matmatx.matmatx@gmail.com
 
-Siège : Beloeil, Belgique.
-
 ## 2. Données collectées
 Nous appliquons le principe de minimisation pour ne collecter que le strict nécessaire :
 
