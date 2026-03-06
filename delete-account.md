@@ -1,4 +1,4 @@
-# Suppression de compte et des données associées
+# Suppression de compte et des données associées pour To Learn
 
 Conformément aux réglementations sur la protection des données personnelles, vous disposez d'un droit à l'effacement de vos informations. Vous pouvez demander la suppression de votre compte et de toutes les données associées via les deux méthodes suivantes :
 
