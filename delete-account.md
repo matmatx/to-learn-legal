@@ -19,8 +19,8 @@ Si l'application est encore installée sur votre appareil, vous pouvez procéder
 ## 2. Par demande e-mail
 Si vous n'avez plus accès à l'application ou si vous rencontrez une difficulté, vous pouvez formuler une demande manuelle :
 * **Contact :** [cozzy.development@gmail.com](mailto:cozzy.development@gmail.com)
-* **Objet :** Demande de suppression de compte - [Nom de votre application]
+* **Objet :** Demande de suppression de compte - To learn
 * **Délai de traitement :** Nous nous engageons à traiter votre demande et à supprimer vos données sous un délai de 7 jours ouvrés après réception de votre e-mail.
 
 ---
-*Dernière mise à jour : Octobre 2023*
+*Dernière mise à jour : mars 2026*
