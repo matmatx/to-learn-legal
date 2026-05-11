@@ -1,5 +1,5 @@
 # Conditions Générales d’Utilisation (CGU) – Application "Recity"
-**Version :** 1.0 (Bêta)  
+**Version :** 1.0.6 (Bêta)  
 **Dernière mise à jour :** 24 février 2026
 
 Les présentes Conditions Générales d’Utilisation (ci-après "CGU") définissent les règles d'utilisation de l'application **Recity**.
